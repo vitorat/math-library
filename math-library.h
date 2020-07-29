@@ -1,4 +1,5 @@
 // Math library
+//Author: Vitor tolomelli
 
 #include<iostream>
 #include<stdio.h>
